@@ -10,8 +10,10 @@ namespace MyApp
             // HRDemo.Show();
             // CalculatorDemo.Show();
             // ControlFlowDemo.Show();
-            DictionaryDemo.Show();
-            ListDemo.Show();
+            // DictionaryDemo.Show();
+            // ListDemo.Show();
+            LambdaDemo.Show();
+            DelegatesDemo.Show();
         }
     }
 }
