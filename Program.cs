@@ -12,8 +12,10 @@ namespace MyApp
             // ControlFlowDemo.Show();
             // DictionaryDemo.Show();
             // ListDemo.Show();
-            LambdaDemo.Show();
-            DelegatesDemo.Show();
+            // LambdaDemo.Show();
+            // DelegatesDemo.Show();
+            LINQDemo.Show();
+            ExceptionHandlerDemo.Show();
         }
     }
 }
